@@ -1,0 +1,5 @@
+TimeSpent*
+.ipynb_checkpoints/*
+q.log
+hw5simpsons/dataset*
+hw5simpsons/testset*
